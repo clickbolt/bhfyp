@@ -352,8 +352,8 @@ function whatsappButton({brandName:t="",buttonName:e="",brandSubtitleText:a="",w
          </a>
           <p class="wa-powered-by-label">
           ⚡ Powered by 
-          <a rel="noopener noreferrer" target="_blank" class="wa-sleekflow-label" href="https://sleekflow.io/?utm_source=tool&utm_medium=whatsapp-button&utm_campaign=webbutton">
-            <span>SleekFlow</span>
+          <a rel="noopener noreferrer" target="_blank" class="wa-sleekflow-label" href="https://sajidali.net/?utm_source=tool&utm_medium=whatsapp-button&utm_campaign=webbutton">
+            <span>Sajidali</span>
           </a>
         </p>
       </div>
@@ -378,7 +378,7 @@ function whatsappButton({brandName:t="",buttonName:e="",brandSubtitleText:a="",w
          </svg>
       </span>
       Powered by
-      <a id="wa-cta-button-powered-sleekflow" href="https://sleekflow.io/whatsapp-button-generator" target="_blank" rel="noreferrer">SleekFlow</a>
+      <a id="wa-cta-button-powered-sleekflow" href="https://sajidali.net/whatsapp-button-generator" target="_blank" rel="noreferrer">Sajid ali</a>
       </p>
    </div>
 </div>
