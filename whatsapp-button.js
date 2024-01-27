@@ -267,7 +267,7 @@ function whatsappButton({brandName:t="",buttonName:e="",brandSubtitleText:a="",w
     sans-serif;
   position: absolute;
   right: 0.5rem;
-  bottom: -42px;
+  bottom: -22px;
   width: 100%;
 }
 
