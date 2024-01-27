@@ -330,7 +330,7 @@ function whatsappButton({brandName:t="",buttonName:e="",brandSubtitleText:a="",w
       <div class="wa-chat-wrapper">
          <div class="wa-chat-bubble-wrapper">
             <p
-               style="font-weight:500;font-family:Matter;margin-bottom:8px;margin-top:0px;color:var(--color-primary-900)">
+               style="font-weight:500;margin-bottom:8px;margin-top:0px;color:var(--color-primary-900)">
                {{brandName}}
             </p>
             <pre style="color:var(--color-gray-700);margin:0px">{{welcomeMessage}}</pre>
