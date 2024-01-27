@@ -320,12 +320,8 @@ function whatsappButton({brandName:t="",buttonName:e="",brandSubtitleText:a="",w
                <p style="margin:0;font-size:0.875rem;line-height:1.25rem">{{brandSubtitleText}}</p>
             </div>
          </div>
-         <svg viewBox="0 0 15 14" fill="#000" xmlns="http://www.w3.org/2000/svg" id="wa-close-btn" width="20"
-            height="20" style="background-color:transparent;fill:white;color:white">
-            <path
-               d="m2.674.569.106.093 4.754 4.754L12.288.662a1.12 1.12 0 0 1 1.678 1.48l-.094.105L9.118 7l4.754 4.753a1.12 1.12 0 0 1-1.479 1.678l-.105-.093-4.754-4.754-4.754 4.754a1.12 1.12 0 0 1-1.678-1.479l.093-.105L5.95 7 1.195 2.247A1.12 1.12 0 0 1 2.675.569Z">
-            </path>
-         </svg>
+       <button aria-label="Search this blog" class="elcreative_ripple button_close_comments relative inline-flex shrink-0 grow-0 cursor-pointer appearance-none items-center justify-center overflow-hidden rounded-full bg-transparent p-2 text-colorItemMeta hover:bg-colorTextTrans1 focus:bg-colorTextTrans1 active:bg-colorTextTrans2 ltr:mr-2 rtl:ml-2 dark:text-colorColorModeDarkMeta dark:hover:bg-colorColorModeDarkTextTrans1 dark:focus:bg-colorColorModeDarkTextTrans1 dark:active:bg-colorColorModeDarkTextTrans2" data-toggle-trigger-off="" id="wa-close-btn" type="button">
+<svg aria-hidden="true" fill="currentColor" height="16" viewBox="0 0 16 16" width="16"><path d="M13.3536 3.35357L13.7072 3.00001L13.0001 2.29291L12.6465 2.64646L13.3536 3.35357ZM2.64652 12.6465L2.29297 13L3.00008 13.7071L3.35363 13.3536L2.64652 12.6465ZM3.35363 2.64646L3.00008 2.29291L2.29297 3.00001L2.64652 3.35357L3.35363 2.64646ZM12.6465 13.3536L13.0001 13.7071L13.7072 13L13.3536 12.6465L12.6465 13.3536ZM12.6465 2.64646L2.64652 12.6465L3.35363 13.3536L13.3536 3.35357L12.6465 2.64646ZM2.64652 3.35357L12.6465 13.3536L13.3536 12.6465L3.35363 2.64646L2.64652 3.35357Z"></path></svg></button>
       </div>
       <div class="wa-chat-wrapper">
          <div class="wa-chat-bubble-wrapper">
