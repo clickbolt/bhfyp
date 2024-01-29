@@ -49,7 +49,7 @@ function whatsappButton({brandName:t="",buttonName:e="",brandSubtitleText:a="",w
             --color-primary-900: hsl(230, 54%, 11%);
             --color-gray-700: hsl(240, 1%, 31%);
             --color-text-secondary: var(--color-gray-700);
-            --color-whatsapp-green-light:hsl(142, 70%,49%);
+            --color-whatsapp-green-light:hsl(173, 86%, 20%);
             --color-whatsapp-green-dark:hsl(173, 86%, 20%)
         }
         
