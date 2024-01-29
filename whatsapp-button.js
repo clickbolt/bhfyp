@@ -363,19 +363,6 @@ function whatsappButton({brandName:t="",buttonName:e="",brandSubtitleText:a="",w
 </svg><p class="wa-cta-button-label font-header wa-cta-button-label-margin">WhatsApp</p>
       </div>
    </button>
-   <div id="wa-cta-button-powered">
-      <p id="wa-cta-button-powered-label">
-      <span id="wa-cta-button-powered-icon">
-         <svg width="10" height="14" viewBox="0 0 10 14" fill="none" xmlns="http://www.w3.org/2000/svg"
-            className="mr-[8px]"
-         >
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M5.84653 0.0360377C6.13974 0.138097 6.33912 0.438354 6.33912 0.777828V4.66669L9.15651 4.66669C9.41915 4.66669 9.65997 4.82804 9.78125 5.08527C9.90254 5.34251 9.88415 5.65289 9.73354 5.89048L4.80311 13.6682C4.62681 13.9463 4.30753 14.066 4.01433 13.964C3.72113 13.8619 3.52174 13.5616 3.52174 13.2222L3.52174 9.33331H0.704349C0.441715 9.33331 0.200895 9.17196 0.0796083 8.91473C-0.0416787 8.65749 -0.0232851 8.34711 0.127325 8.10952L5.05775 0.331805C5.23405 0.0536972 5.55333 -0.0660216 5.84653 0.0360377Z" fill="#FFA800" />
-         </svg>
-      </span>
-      Powered by
-      <a id="wa-cta-button-powered-sleekflow" href="https://sajidali.net/whatsapp-button-generator" target="_blank" rel="noreferrer">Sajid ali</a>
-      </p>
-   </div>
 </div>
 
         </div>
