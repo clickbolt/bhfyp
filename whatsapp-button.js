@@ -52,11 +52,6 @@ function whatsappButton({brandName:t="",buttonName:e="",brandSubtitleText:a="",w
             --color-whatsapp-green-light:hsl(173, 86%, 20%);
             --color-whatsapp-green-dark:hsl(173, 86%, 20%)
         }
-        
-        .font-header {
-            font-family: "Inter", "Noto Sans TC", "Noto Sans SC", "Helvetica", "Arial", sans-serif;
-            font-weight: 700 !important;
-        }
       *,
 *:before,
 *:after {
@@ -232,7 +227,8 @@ color: var(--colorBackground);
 
 .wa-cta-button-label {
   color: white;
-  font-size: 1rem;
+ font-size: .875rem;
+font-weight: 500;
   margin-top: 0;
   margin-bottom: 0;
 }
