@@ -193,7 +193,6 @@ function whatsappButton({brandName:t="",buttonName:e="",brandSubtitleText:a="",w
   align-items: center;
   align-self: end;
   border-radius: 500px;
-  background-color: var(--color-whatsapp-green-light);
 }
 
 .wa-button-size-regular {
@@ -355,7 +354,7 @@ color: var(--colorBackground);
         </p>
       </div>
    </div>
-   <button id="wa-cta-button" class="wa-cta-button wa-button-size-{{buttonSize}} {{buttonPadding}}">
+   <button id="wa-cta-button" class="dark:bg-colorYlwBackground bg-colorGadgetKey wa-cta-button wa-button-size-{{buttonSize}} {{buttonPadding}}">
       <div class="wa-cta-button-inner">
       <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-whatsapp" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
